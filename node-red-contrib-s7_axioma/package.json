@@ -1,0 +1,64 @@
+{
+  "_from": "node-red-contrib-s7_axioma@3.0.0",
+  "_id": "node-red-contrib-s7_axioma@3.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-nZGS0atEuEr9JmBeCiiVXWWVs1oKuChSVZqpq6wI6faUhf4lNRLRKxA7+Np/en0RW1p76WpUNYDU28DRyU66nQ==",
+  "_location": "/node-red-contrib-s7_axioma",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "node-red-contrib-s7_axioma@3.0.0",
+    "name": "node-red-contrib-s7_axioma",
+    "escapedName": "node-red-contrib-s7_axioma",
+    "rawSpec": "3.0.0",
+    "saveSpec": null,
+    "fetchSpec": "3.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "",
+  "_shasum": "58d6cc95d26586af71bd0ad8cc38bad536e741a2",
+  "_spec": "node-red-contrib-s7_axioma@3.0.0",
+  "_where": "C:\\Users\\User\\.node-red",
+  "author": {
+    "name": "ST-One Ltda."
+  },
+  "bugs": {
+    "url": ""
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@st-one-io/nodes7": "^1.0.0-beta.1"
+  },
+  "deprecated": false,
+  "description": "A Node-RED node to interact with Siemens S7 PLCs",
+  "homepage": "",
+  "keywords": [
+    "hardware",
+    "s7",
+    "logo",
+    "siemens",
+    "plc",
+    "profinet",
+    "node-red"
+  ],
+  "license": "GPL-3.0-or-later",
+  "main": "index.js",
+  "name": "node-red-contrib-s7_axioma",
+  "node-red": {
+    "nodes": {
+      "s7": "red/s7.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.0.0"
+}
