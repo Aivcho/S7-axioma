@@ -1,0 +1,1 @@
+Parsisiūstą biblioteką ištraukti iš zip'o ir įdėti į %userprofile%\.node-red\node_modules\

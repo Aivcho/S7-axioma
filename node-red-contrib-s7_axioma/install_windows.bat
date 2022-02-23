@@ -1,0 +1,1 @@
+call npm install %userprofile%\.node-red\node_modules\node-red-contrib-s7_axioma
